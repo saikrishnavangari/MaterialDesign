@@ -1568,6 +1568,8 @@
     <style name="Theme.Bacon.Detail">
         <item name="android:statusBarColor">@android:color/transparent</item>
 
+
+
     </style>
     <!-- From: file:/E:/ANdroidtraining_Acad_gild/New%20folder/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
     <eat-comment/>
