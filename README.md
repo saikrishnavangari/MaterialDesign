@@ -1,1 +1,1 @@
-# MaterialDesign
+# MaterialDesign project for Udacity
